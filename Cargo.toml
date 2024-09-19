@@ -1,0 +1,16 @@
+[package]
+name = "rustisia"
+version = "0.0.1"
+rust-version = "1.80"
+documentation = "https://docs.rs/rustisia"
+edition = "2021"
+authors = ["mainfn"]
+repository = "https://github.com/mainfn/rustisia"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["rustisia"]
+categories = ["development-tools"]
+description = "A Rust web framework doing nothing yet so far"
+readme = "README.md"
+
+[dependencies]
